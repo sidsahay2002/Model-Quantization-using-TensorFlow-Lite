@@ -8,3 +8,5 @@ The deep learning model is a Covid-19 ChestXray prediction model made using a sm
 Two types of quantization techniues were used in this project:
 1. Qunatization Aware Training
 2. Post-Training Qunatization
+
+Link to the daatset: https://www.kaggle.com/datasets/fusicfenta/chest-xray-for-covid19-detection?resource=download
