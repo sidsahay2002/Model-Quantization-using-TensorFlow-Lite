@@ -9,4 +9,4 @@ Two types of quantization techniues were used in this project:
 1. Qunatization Aware Training
 2. Post-Training Qunatization
 
-Link to the daatset: https://www.kaggle.com/datasets/fusicfenta/chest-xray-for-covid19-detection?resource=download
+Link to the dataset: https://www.kaggle.com/datasets/fusicfenta/chest-xray-for-covid19-detection?resource=download
